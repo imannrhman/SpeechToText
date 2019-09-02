@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="hint">Tao Mic Untuk Memulai</string>
+</resources>
